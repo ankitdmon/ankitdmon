@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub oasis!</h1> <hr/>
 <br/>
-<h3 align="left"> 🌱 <b>About Myself: <b/> ✔️ <p> I am Ankit Kumar Mishra, a computer science & engineering graduate from A.P.J. Abdul Kalam Technical University, Lucknow.<br/> ✔️ Passionate about development and dedicated to contributing to open-source organizations. An avid problem solver and enthusiastic about system design! <br/> ✔️ Experienced in FULL-stack web development, always eager to take on exciting challenges. </p>🚀✨</h3>
+<h3 align="left"> 🌱 About Myself: <br/> <p> ✔️ I am Ankit Kumar Mishra, a computer science & engineering graduate from A.P.J. Abdul Kalam Technical University, Lucknow.<br/> ✔️ Passionate about development and dedicated to contributing to open-source organizations. An avid problem solver and enthusiastic about system design! <br/> ✔️ Experienced in FULL-stack web development, always eager to take on exciting challenges. </p>🚀✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdmon&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdmon" /> </p>
 
