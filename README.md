@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 Welcome to my GitHub oasis!</h1> <hr/>
 <br/>
- <h2 align: "left">🌱 About Myself:</h2> 
+ <h3 align: "left">🌱 About Myself:</h3> 
  <hr/> 
- <h3 align="center"> <p> ✔️ I am Ankit Kumar Mishra, a computer science & engineering graduate from A.P.J. Abdul Kalam Technical University, Lucknow.<br/> ✔️ Passionate about development and dedicated to contributing to open-source organizations. An avid problem solver and enthusiastic about system design! <br/> ✔️ Experienced in FULL-stack web development, always eager to take on exciting challenges. </p>🚀✨</h3>
+ <h4 align="center"> <p> ✔️ I am Ankit Kumar Mishra, a computer science & engineering graduate from A.P.J. Abdul Kalam Technical University, Lucknow.<br/> ✔️ Passionate about development and dedicated to contributing to open-source organizations. An avid problem solver and enthusiastic about system design! <br/> ✔️ Experienced in FULL-stack web development, always eager to take on exciting challenges. </p>🚀✨</h4>
 
 <p align="left"> <a href="https://twitter.com/whoankitmisha_" target="blank"><img src="https://img.shields.io/twitter/follow/whoankitmisha_?logo=twitter&style=for-the-badge" alt="whoankitmisha_" /></a> </p>
 
